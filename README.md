@@ -27,6 +27,15 @@ O objetivo geral do Proumo é transformar os anúncios pouco interessantes em an
 ##### Anunciante
 
 ###### 1. Construir BBapp
+* Projeto em branco -> Apenas funcionalidades básicas e default do ProumoBox™
+ * 
+* Mesclagens de Apps -> Vários Apps que se complementam para construir o anúncio
+ * 
+* Por templates -> Vários Apps, pré-escolhidos, e até mesmo com layout pronto
+ * 
+
+__Para todas a opções acima é possível colocar e/ou tirar as funcionalidades ProumoBox™__
+
 É possível efetuar a compra de [Pr$](http://proumos.com) utilizando qualquer moeda.
  * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial;
  * Regra de negócio - 002: A moeda deve ser comprada por meio de _cartão de crédito_ ou _boleto bancário_.
