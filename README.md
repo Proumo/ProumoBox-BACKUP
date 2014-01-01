@@ -1,5 +1,4 @@
 ProumoBox ![image] (http://proumo.com.br/assets/img/logo.png?v=322 "Logo ProumoBox")
-![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_1396756187207261_1711022912_n.jpg "Ícone da moeda virtual Pr$")
 ==========
 
 ## Produto
@@ -10,8 +9,8 @@ ProumoBox ![image] (http://proumo.com.br/assets/img/logo.png?v=322 "Logo ProumoB
 ##### Pitch
 Serviço de publicidade interativa baseado na segmentação dos melhores amigos das redes sociais.
 
-##### Em detalhes
-
+##### Explicação em detalhes
+O ProumoBox é composto por uma loja de BBapps (BillBoard em formato de Aplicativos) espalhados por espaços publicitários em toda a internet. Quando um internauta se depara com um destes espaços, seus amigos são rastreados e o BBapps é segmentado para alcançar o interesse de seus amigos.
 
 [__Proumo$__](http://proumos.com) é um Gateway de pagamentos por meios digitais de baixo custo e de fácil implantação com uma Moeda Virtual ([__Pr$__](http://proumos.com)) que possibilita a " _viralização_ " dos produtos/serviços com promoções no modelo de: _compra coletiva_. 
 <br>__*__ Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns (lojas físicas ou de e-commerce)__.
@@ -161,3 +160,4 @@ O _sistema_ [__Proumo$__](http://proumos.com) oferece as seguintes ações para 
 ##### Itens Feitos:
 
 ### SAVON GENERATE A PARTIR DE UM WSDL:  wsdl2ruby.rb --wsdl ~/Documents/Consultas.wsdl --type client --force;
+![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_1396756187207261_1711022912_n.jpg "Ícone da moeda virtual Pr$")
