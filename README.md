@@ -23,8 +23,9 @@ O objetivo geral do Proumo é transformar os anúncios pouco interessantes em an
 <br><br>
 
 #### Fucionalidades (por ator):
-------------------
+==================
 ##### Anunciante
+------------------
 
 ###### 1. Construir BBapp
 * Projeto em branco -> Apenas funcionalidades básicas e default do __ProumoBox™__
