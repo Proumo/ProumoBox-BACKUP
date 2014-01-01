@@ -27,12 +27,15 @@ O objetivo geral do Proumo é transformar os anúncios pouco interessantes em an
 ##### Anunciante
 
 ###### 1. Construir BBapp
-* Projeto em branco -> Apenas funcionalidades básicas e default do ProumoBox™
- * 
+* Projeto em branco -> Apenas funcionalidades básicas e default do __ProumoBox™__
+ * __Liberdade__ para desenvolver o anúncio como bem quiser
+ * Layout mais limpo e para livre criação
 * Mesclagens de Apps -> Vários Apps que se complementam para construir o anúncio
- * 
+ * __Velocidade__ alta na criação do anúncio
+ * Customização estática ao que tange a interação
 * Por templates -> Vários Apps, pré-escolhidos, e até mesmo com layout pronto
- * 
+ * Crição __instantânea__ de anúncios 
+ * Layouts bem desenhados por __experts__ em __Experiência de Usuário__
 
 __Para todas a opções acima é possível colocar e/ou tirar as funcionalidades ProumoBox™__
 
