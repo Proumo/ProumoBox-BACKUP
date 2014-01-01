@@ -22,6 +22,26 @@ O objetivo geral do Proumo é transformar os anúncios pouco interessantes em an
 * [E qualquer outra plataforma capaz de interoperabilizar com outro sistema por meio do protocolo HTTP](http://pt.wikipedia.org/wiki/HTTPS).  
 <br><br>
 
+#### Fucionalidades (por ator):
+------------------
+##### Anunciante
+
+###### 1. Construir BBapp
+É possível efetuar a compra de [Pr$](http://proumos.com) utilizando qualquer moeda.
+ * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial;
+ * Regra de negócio - 002: A moeda deve ser comprada por meio de _cartão de crédito_ ou _boleto bancário_.
+
+##### Desenvolvedor 
+
+###### 1. Ambiente de desenvolvimento
+É possível trocar de volta da moeda virtual ([Pr$](http://proumos.com)) para a moeda física.
+ * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial de moedas;
+ * Regra de negócio - 002: O _débito_ só ocorrerá se a  quantidade de ([Pr$](http://proumos.com)) for 3x o valor, corrente, da transação.
+  * O __valor__, corrente, da __transação__ e do __ganho__ do sistema sobre o _débito_ devem ser totalmente __transparente__.
+ * Regra de negócio - 003: A moeda real deve ser passado em um _cartão de crédito_ ou em _conta corrente_.
+
+<br><br>
+
 ## Projeto
 
 #### Fucionamento:
@@ -48,24 +68,7 @@ __Client Side__
 * [Intel XDK](http://xdk-software.intel.com/) --> Hybrid Mobile App
 
 
-##### Fucionalidades (por ator):
-##### Anunciante
 
-###### 1. Construir BBapp
-É possível efetuar a compra de [Pr$](http://proumos.com) utilizando qualquer moeda.
- * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial;
- * Regra de negócio - 002: A moeda deve ser comprada por meio de _cartão de crédito_ ou _boleto bancário_.
-
-##### Desenvolvedor 
-
-###### 1. Ambiente de desenvolvimento
-É possível trocar de volta da moeda virtual ([Pr$](http://proumos.com)) para a moeda física.
- * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial de moedas;
- * Regra de negócio - 002: O _débito_ só ocorrerá se a  quantidade de ([Pr$](http://proumos.com)) for 3x o valor, corrente, da transação.
-  * O __valor__, corrente, da __transação__ e do __ganho__ do sistema sobre o _débito_ devem ser totalmente __transparente__.
- * Regra de negócio - 003: A moeda real deve ser passado em um _cartão de crédito_ ou em _conta corrente_.
-
-<br><br>
 
 ## Projeto
 
