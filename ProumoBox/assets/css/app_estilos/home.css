@@ -14,7 +14,15 @@ header > .btn {
     float: right;
 }
 
-header > img {
+#brand {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+#brand img {
     width: 4%;
 }
 
+header.span12 > .btn {
+    margin-top: 10px;
+}
