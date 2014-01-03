@@ -1,6 +1,10 @@
 /* foundation */
 @import "foundation/foundation-icons.css";
 
+/* font-awesome */
+@import "font-awesome/font-awesome.min.css";
+@import "fontello/fontello.css";
+
 /* Social */
 @import "social/social-buttons.css";
 @import "social/font-awesome.min.css";
