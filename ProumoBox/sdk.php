@@ -1,10 +1,4 @@
 <?php require 'header.php'; ?>
-<div class="container">
-    <div class="row">
-        <?php require 'tmp_sdk/sdk_header.php'; ?>
-    </div>
-</div>
-
 <div id="sdk_container" class="container">
     <div class="row">
         <?php require 'tmp_sdk/arvore_diretorios.php'; ?>
