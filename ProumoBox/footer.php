@@ -1,4 +1,4 @@
-<!-- JS jQuery -->
+        <!-- JS jQuery -->
         <script type="text/javascript" src="assets/js/jquery/jq.pnotify.min.js"></script>
         <script type="text/javascript" src="assets/js/jquery/jq.easing.1.3.js"></script>
         <!-- /JS jQuery -->
