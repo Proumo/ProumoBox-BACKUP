@@ -14,7 +14,7 @@
         <![endif]-->
         
         <!-- JavaScripts -->
-        <script type="text/javascript" src="<?php echo PREFIXO_PATH;?>assets/js/jquery/jq-1.10.2.min.js"></script>
+        <script type="text/javascript" src="assets/js/jquery/jq-1.10.2.min.js"></script>
         <!-- Angular -->
         <script src="assets/js/angular/angular.min.js"></script>
         <script src="assets/js/angular/angular-sanitize.min.js"></script>
