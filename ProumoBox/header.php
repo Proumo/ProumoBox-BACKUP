@@ -9,6 +9,9 @@
         <!-- /Favicon -->
         
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <!--[if IE 7]>
+        <link rel="stylesheet" href="css/fontello-ie7.css">
+        <![endif]-->
         
         <!-- JavaScripts -->
         <script type="text/javascript" src="<?php echo PREFIXO_PATH;?>assets/js/jquery/jq-1.10.2.min.js"></script>
