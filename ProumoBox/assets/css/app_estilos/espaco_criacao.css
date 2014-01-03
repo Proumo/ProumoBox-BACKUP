@@ -1,0 +1,65 @@
+/* 
+    Document   : espaco_criacao
+    Created on : 02/01/2014, 17:51:01
+    Author     : Andre
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.apps_container{
+    display: inline-table;
+  
+    float: left;
+}
+#lista_apps .well{
+    min-height: 400px;
+}
+.bbapp_frame{
+    display: inline-table;
+    float:left;
+}
+
+#bbapp_frame[class*="span"]{
+    margin: 0;
+}
+
+#carrinho_apps[class*="span"]{
+    margin-left: 0;
+}
+
+.preview-frame{
+    min-height: 400px;
+    background-color: white;
+    border:2px;
+    border-color: black;
+}
+.carrinho_apps{
+    display: inline-table;
+    float:left;
+}
+
+.app{
+    padding: 5px;
+    border-bottom: 1px black solid;
+}
+
+.app .app_icon{
+    display: inline-block;
+    max-height: 30px;
+    max-width: 30px;
+    
+}
+.app .nome{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.app .preco{
+    float:right;
+    font-size: 10px;
+    
+}
+
+.app .add{
+    float:right;
+    margin:5px;
+}

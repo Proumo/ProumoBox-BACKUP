@@ -1,5 +1,12 @@
 <?php require 'header.php'; ?>
-    <?php require 'tmp_espaco_criacao/lista_apps.php'; ?>
-    <?php require 'tmp_espaco_criacao/bbapp_frame.php'; ?>
-    <?php require 'tmp_espaco_criacao/lista_apps.php'; ?>
+<div class="container">
+    <div class="row">
+        <div id="lista_apps" class="span3"> <div class="well"> <?php require 'tmp_espaco_criacao/lista_apps.php'; ?></div></div>
+        <div id="bbapp_frame" class="span9"> <div class="well"> <?php require 'tmp_espaco_criacao/bbapp_frame.php'; ?></div></div>
+       
+        <div id="carrinho_apps" class="span3"> <div class="well"> <?php require 'tmp_espaco_criacao/carrinho_apps.php'; ?></div></div>
+        <div id="file_preview" class="span9"> <div class="well"> <?php require 'tmp_espaco_criacao/bbapp_frame.php'; ?></div></div>
+       
+    </div>
+</div>
 <?php require 'footer.php'; ?>
