@@ -11,12 +11,13 @@
     float: left;
 }
 #lista_apps .well{
-    min-height: 400px;
+    min-height: 300px;
 }
 .bbapp_frame{
     display: inline-table;
     float:left;
 }
+
 
 #bbapp_frame[class*="span"]{
     margin: 0;
@@ -26,8 +27,16 @@
     margin-left: 0;
 }
 
+#meus_arquivos[class*="span"]{
+    margin: 0;
+}
+
+#file_preview[class*="span"]{
+    margin-left: 0;
+}
+
 .preview-frame{
-    min-height: 400px;
+    min-height: 300px;
     background-color: white;
     border:2px;
     border-color: black;
