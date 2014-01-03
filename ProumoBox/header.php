@@ -34,3 +34,4 @@
         
     </head>
     <body>
+        <?php require 'tmp_home/h_header.php'; ?>
