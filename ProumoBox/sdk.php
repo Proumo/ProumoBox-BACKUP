@@ -7,8 +7,8 @@
 
 <div id="sdk_container" class="container">
     <div class="row">
-        <?php require 'tmp_sdk/arvore_proj.php'; ?>
-        <?php require 'tmp_sdk/codigo_fonte.php'; ?>
+        <?php require 'tmp_sdk/arvore_diretorios.php'; ?>
+        <?php require 'tmp_sdk/arquivo_editor.php'; ?>
     </div>
 
     <div class="row">
