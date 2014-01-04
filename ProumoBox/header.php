@@ -9,9 +9,12 @@
         <!-- /Favicon -->
         
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <!--[if IE 7]>
+        <link rel="stylesheet" href="css/fontello-ie7.css">
+        <![endif]-->
         
         <!-- JavaScripts -->
-        <script type="text/javascript" src="<?php echo PREFIXO_PATH;?>assets/js/jquery/jq-1.10.2.min.js"></script>
+        <script type="text/javascript" src="assets/js/jquery/jq-1.10.2.min.js"></script>
         <!-- Angular -->
         <script src="assets/js/angular/angular.min.js"></script>
         <script src="assets/js/angular/angular-sanitize.min.js"></script>
@@ -31,3 +34,4 @@
         
     </head>
     <body>
+        <?php require 'tmp_home/h_header.php'; ?>

@@ -1,0 +1,11 @@
+#arvore_diretorios {
+    background: #f3f8fd;
+}
+
+#arvore_diretorios header h5 {
+    text-align: center;
+}
+
+#arvore_diretorios .icon-folder {
+    color: #7ea8c5;
+}
