@@ -1,4 +1,4 @@
-<h3>Apps</h3>
+<span class="titulo-secao">Apps</span>
 <input type="text" placeholder="Pesquise Apps">
 
 <div class="app">
