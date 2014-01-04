@@ -1,7 +1,7 @@
 <span class="titulo-secao">Apps</span>
 <input type="text" placeholder="Pesquise Apps">
 
-<div class="app">
+<div id="app01" class="app">
     <div class="app_icon"><img class="app_icon" src="assets/img/imgs-proumo/icon3.jpg"></div>
     <span class="nome">TechSpechs 1.0</span>
     <i class="icon-plus-sign add"></i>
@@ -9,7 +9,7 @@
     
 </div>
 
-<div class="app">
+<div id="app02" class="app">
     <div class="app_icon "><img  class="app_icon" src="assets/img/imgs-proumo/icon2.jpg"></div>
     <span class="nome ">easyWS 1.0</span>
     <i class="icon-plus-sign add"></i>
@@ -17,10 +17,16 @@
     
 </div>
 
-<div class="app">
+<div id="app03" class="app">
     <div class="app_icon"><img class="app_icon"  src="assets/img/imgs-proumo/icon1.jpg"></div>
     <span class="nome">Animation3D</span>
     <i class="icon-plus-sign add"></i>
     <span class="preco">R$ 0,99</span>
     
 </div>
+<script>
+ $(document).ready(function(){
+$('.app').draggable();})
+
+
+</script>
