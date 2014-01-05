@@ -6,12 +6,20 @@
         Purpose of the stylesheet follows.
 */
 
-header.span12 {
+#header_nav {
     padding-top: 20px;
 }
 
-header > .btn {
-    float: right;
+#header_nav nav {
+    margin-top: 9px;
+}
+
+#header_nav nav a {
+    font-size: 1.4em;
+}
+
+#header_nav nav li {
+    margin-left: 3%;
 }
 
 #brand {
@@ -23,6 +31,15 @@ header > .btn {
     width: 47px;
 }
 
-header.span12 > .btn {
+#header_nav div .btn {
+    float: right;
     margin-top: 10px;
+}
+
+#perfil_rapido {
+    padding-top: 1%;
+}
+
+#perfil_rapido img {
+    width: 30px;
 }
