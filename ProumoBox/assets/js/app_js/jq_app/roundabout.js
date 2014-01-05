@@ -1,5 +1,5 @@
 $(document).ready(function() {
-                $('ul').roundabout({
+                $('#carrossel').roundabout({
                     enableDrag: true,
                     tilt: 70,
                     minOpacity: 0.001,
