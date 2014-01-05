@@ -15,7 +15,7 @@
 }
 
 #header_nav nav a {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 #header_nav nav li {
@@ -40,6 +40,20 @@
     padding-top: 1%;
 }
 
+#perfil_rapido .row {
+    padding-left: 20%;
+}
+
 #perfil_rapido img {
-    width: 30px;
+    width: 40px;
+}
+
+#perfil_rapido .usr_info {
+    float: right;
+    font-weight: bold;
+} 
+
+#perfil_rapido .usr_info span {
+    font-weight: normal;
+    color: #b7b7b7;
 }
