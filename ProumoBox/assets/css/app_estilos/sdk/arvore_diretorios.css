@@ -70,3 +70,19 @@
 #ops_ger_arqs_dirs > span {
     cursor: pointer;
 }
+
+#frame_diretorios ul {
+    list-style: none;
+}
+
+#frame_diretorios > ul {
+    margin: 0;
+}
+
+#frame_diretorios .html5 {
+    color: red;
+}
+
+#frame_diretorios .css3 {
+    color: green;
+}
