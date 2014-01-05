@@ -9,9 +9,9 @@
         <script type="text/javascript" src="assets/js/bootstrap/bootstrap-scrollspy.js"></script>
         <!-- /JS Bootstrap -->
 
-        <!-- Meus JS 
-        <script type="text/javascript" src="assets/js/app_js/app_jq.js"></script>
-        <script type="text/javascript" src="assets/js/app_js/bootstrap_app.js"></script>
+        <!-- Meus JS -->
+        <script type="text/javascript" src="assets/js/app_js/angular_app/arvore_diretorios_controller.js"></script>
+        <script type="text/javascript" src="assets/js/app_js/jq_app/reboots.js"></script>
         <!-- /Meus JS -->
     </body>
 </html>
