@@ -15,6 +15,7 @@
         
         <!-- JavaScripts -->
         <script type="text/javascript" src="assets/js/jquery/jq-1.10.2.min.js"></script>
+        <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
         <!-- Angular -->
         <script src="assets/js/angular/angular.min.js"></script>
         <script src="assets/js/angular/angular-sanitize.min.js"></script>
