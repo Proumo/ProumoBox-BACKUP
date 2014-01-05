@@ -17,8 +17,13 @@
     </header>
     
     <div id="frame_diretorios">
-        <div class="folder" ng-click="toggle_pasta($event)">
-            <i class="fa fa-folder{{ folder_state }}"></i> <span class="{{ folder_name }}"> Título do projeto</span>
-        </div>
+        <ul class="folder" ng-click="toggle_pasta($event)">
+            <li> <i class="fa fa-folder{{ folder_state }}"></i> <span class="{{ folder_name }}"> Título do projeto</span> 
+                <ul>
+                    <li class="css3"> <i class="fi-css3"></i> style.css </li>
+                    <li class="html5 strong"> <i class="fi-html5"></i> index.html </li>
+                </ul> 
+            </li>
+        </ul>
     </div>
 </div>
