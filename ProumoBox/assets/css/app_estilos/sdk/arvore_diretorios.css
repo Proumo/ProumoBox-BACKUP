@@ -1,11 +1,67 @@
 #arvore_diretorios {
-    background: #f3f8fd;
+    cursor: default;
+    background: #effdff;
 }
 
-#arvore_diretorios header h5 {
-    text-align: center;
+#arvore_diretorios header {
+    padding: 0 5%;
 }
 
-#arvore_diretorios .icon-folder {
-    color: #7ea8c5;
+#arvore_diretorios .fa-folder, #arvore_diretorios .fa-folder-open, 
+#arvore_diretorios .fa-folder-o,  #arvore_diretorios .fa-folder-open-o {
+    color: orange;
+}
+
+#frame_diretorios {
+    background: white;
+    margin: 0 5% 3%;
+    border: 1px solid #006dcc;
+    padding: 2%;
+}
+
+#frame_diretorios .folder i {
+    font-size: 1.3em
+}
+
+#arvore_diretorios .folder {
+    cursor: pointer;
+}
+
+#arvore_diretorios .folder:hover {
+    cursor: pointer;
+}
+
+#frame_diretorios.folder span {
+    margin: 2%;
+}
+
+#ops_ger_arqs_dirs {
+    float: right;
+    font-size: 1.6em;
+}
+
+#ops_ger_arqs_dirs span .fi-x {
+    font-size: .5em;
+    margin-left: -10%;
+    color: #effdff;
+}
+
+#ops_ger_arqs_dirs .fi-page-add, 
+#ops_ger_arqs_dirs .fi-folder-add,
+#ops_ger_arqs_dirs .fa-cloud-upload {
+    color: green;
+}
+
+#ops_ger_arqs_dirs .fi-page-delete,
+#ops_ger_arqs_dirs .fi-folder {
+    color: red;
+}
+
+#ops_ger_arqs_dirs .fa-cloud-download {
+    color: blue;
+}
+
+#ops_ger_arqs_dirs > i,
+#ops_ger_arqs_dirs > span {
+    cursor: pointer;
 }
