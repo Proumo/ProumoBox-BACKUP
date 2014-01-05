@@ -17,10 +17,9 @@
                     </div>
                     
                     <div id='perfil_rapido' class='span2'>
-                        <img src='http://www.gravatar.com/avatar/b85daa4cfdfabe2071abd389aadc5aeb?s=200'>
-                        
-                        <div>
-                            
+                        <div class='row'>
+                            <div class='usr_info'>Ilton Garcia <br> <span>Desenvolvedor</span></div>
+                            <img src='http://www.gravatar.com/avatar/b85daa4cfdfabe2071abd389aadc5aeb?s=200'>
                         </div>
                     </div>
                 </div>
