@@ -1,3 +1,7 @@
 #arquivo_editor {
-    background: #fff5f5;
+    background: #fef9ee;
+}
+
+#arquivo_editor .breadcrumb {
+    background: #f6efdd;
 }
