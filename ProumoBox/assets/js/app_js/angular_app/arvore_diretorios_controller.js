@@ -1,6 +1,9 @@
 var ProumoApp = angular.module('ProumoApp', []);
 
 ProumoApp.controller('ArvoreDiretorioController', function($scope, $http) {
+    // Estado default da pasta como aberta
+    $scope.folder_state = '-open';
+    $scope.folder_name = 'strong';
     
     // abre e fecha os diretórios (toggle) 
     $scope.toggle_pasta = function(event) {
