@@ -4,6 +4,7 @@
 }
 
 #arvore_diretorios header {
+    cursor: default;
     padding: 1% 5% .1%;
     background: #d9f4f8;
 }
