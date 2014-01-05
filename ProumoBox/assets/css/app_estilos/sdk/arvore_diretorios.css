@@ -4,7 +4,12 @@
 }
 
 #arvore_diretorios header {
-    padding: 0 5%;
+    padding: 1% 5% .1%;
+    background: #d9f4f8;
+}
+
+#arvore_diretorios header > div {
+    margin-top: -2%;
 }
 
 #arvore_diretorios .fa-folder, #arvore_diretorios .fa-folder-open, 
