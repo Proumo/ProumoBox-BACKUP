@@ -59,7 +59,7 @@
 
 #ops_ger_arqs_dirs .fi-page-delete,
 #ops_ger_arqs_dirs .fi-folder {
-    color: red;
+    color: #dd3e0f;
 }
 
 #ops_ger_arqs_dirs .fa-cloud-download {
@@ -80,7 +80,7 @@
 }
 
 #frame_diretorios .html5 {
-    color: red;
+    color: #dd3e0f;
 }
 
 #frame_diretorios .css3 {
