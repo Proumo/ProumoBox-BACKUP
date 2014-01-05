@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="ProumoApp">
     <head>
         <title>ProumoBox</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
