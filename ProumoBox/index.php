@@ -2,7 +2,7 @@
     
     <div class="container">
 
-        <ul>
+        <ul id='carrossel'>
             <li><div >
                     <img id="imagem-coca" src="assets/img/imgs-proumo/coca_copa.png"/>
                     <input id="coca-input" type="text" placeholder="Código" >
