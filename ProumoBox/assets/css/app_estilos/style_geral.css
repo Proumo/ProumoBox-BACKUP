@@ -5,3 +5,6 @@ body #banner {
     font-family: 'Lobster';
 } 
 
+.strong {
+    font-weight: bold;
+}
