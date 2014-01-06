@@ -1,5 +1,3 @@
-var ProumoApp = angular.module('ProumoApp', []);
-
 ProumoApp.controller('ArvoreDiretorioController', function($scope, $http) {
     // Estado default da pasta como aberta
     $scope.folder_state = '-open';
@@ -14,6 +12,9 @@ ProumoApp.controller('ArvoreDiretorioController', function($scope, $http) {
             $scope.folder_name = undefined;
             $scope.folder_state = undefined;
         }
+        
+        if($(event.target)[0].nodeName.toLowerCase() == 'i') $(event.target).parent().parent().children('ul').toggle();
+        else $(event.target).parent().children('ul').toggle();
     }// /toggle_folder
 
 });
