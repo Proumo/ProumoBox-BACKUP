@@ -17,11 +17,12 @@
     </header>
     
     <div id="frame_diretorios">
-        <ul class="folder">
+        <ul class="pasta">
             <li> <div class="{{ folder_name }}" ng-click="toggle_pasta($event)"> <i class="fa fa-folder{{ folder_state }}"></i> Título do projeto</div>
                 <ul>
-                    <li class="css3"> <i class="fi-css3"></i> style.css </li>
-                    <li class="html5 strong"> <i class="fi-html5"></i> index.html </li>
+                    <li class="js"> <i class="imoon-file-css"></i> app.js </li>
+                    <li class="css"> <i class="imoon-file-css"></i> style.css </li>
+                    <li class="html strong"> <i class="imoon-file-xml"></i> index.html </li>
                 </ul> 
             </li>
         </ul>
