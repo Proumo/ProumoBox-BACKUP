@@ -21,5 +21,8 @@
 /* fontello */
 @import "fontello/fontello.css";
 
+/* icomoon */
+@import "icomoon/style.css";
+
 /* Meus estilos */
 @import "app_estilos/style_geral.css";
