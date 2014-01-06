@@ -10,6 +10,7 @@
         <!-- /JS Bootstrap -->
 
         <!-- Meus JS -->
+        <script type="text/javascript" src="assets/js/app_js/angular_app/app_base.js"></script>
         <script type="text/javascript" src="assets/js/app_js/angular_app/arvore_diretorios_controller.js"></script>
         <script type="text/javascript" src="assets/js/app_js/jq_app/reboots.js"></script>
         <!-- /Meus JS -->
