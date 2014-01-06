@@ -8,6 +8,8 @@
         <link rel='shortcut icon' type='image/x-icon' href='assets/img/imgs-proumo/favicon-prb.png' />
         <!-- /Favicon -->
         
+        <!-- Font Family -->
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Gruppo">
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
         <!--[if IE 7]>
         <link rel="stylesheet" href="css/fontello-ie7.css">
