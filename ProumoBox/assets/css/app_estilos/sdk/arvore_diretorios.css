@@ -25,19 +25,19 @@
     padding: 2%;
 }
 
-#frame_diretorios .folder i {
+#frame_diretorios .pasta ul i {
     font-size: 1.3em
 }
 
-#arvore_diretorios .folder {
+#arvore_diretorios .pasta {
     cursor: pointer;
 }
 
-#arvore_diretorios .folder:hover {
+#arvore_diretorios .pasta:hover {
     cursor: pointer;
 }
 
-#frame_diretorios.folder span {
+#frame_diretorios.pasta span {
     margin: 2%;
 }
 
@@ -81,10 +81,25 @@
     margin: 0;
 }
 
-#frame_diretorios .html5 {
+#frame_diretorios .html {
     color: #dd3e0f;
 }
 
-#frame_diretorios .css3 {
+#frame_diretorios .css {
     color: green;
+}
+
+#frame_diretorios .js {
+    color: #dc9110;
+}
+
+#codigo_fonte {
+    padding: 0 2%;
+}
+
+#codigo_fonte textarea {
+    background: black;
+    color: white;
+    width: 94.3%;
+    min-height: 450px;
 }
